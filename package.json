@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-has-permission",
+  "version": "0.0.1",
+  "description": "A Quasar App Extension",
+  "author": "刘宁 <liuhnnn@163.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leo4developer/has-permission.git"
+  },
+  "bugs": "https://github.com/leo4developer",
+  "homepage": "https://github.com/leo4developer",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
