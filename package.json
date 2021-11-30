@@ -1,6 +1,6 @@
 {
   "name": "quasar-app-extension-has-permission",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "自定义指令，用于控制权限",
   "author": "刘宁 <liuhnnn@163.com>",
   "license": "MIT",
