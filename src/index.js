@@ -1,10 +1,6 @@
-// file: /index.js
-
 function extendConf(conf) {
   // 确保已注册has-permission启动文件
-  conf.boot.push(
-    "~quasar-app-extension-has-permission/src/boot/register-permission-directive.js"
-  );
+  conf.boot.push("~quasar-app-extension-has-permission/src/boot/register.js");
 
   // 确保启动和其它文件被编译
   conf.build.transpileDependencies.push(
